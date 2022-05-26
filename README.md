@@ -3,6 +3,7 @@
 Projects are necessary while learning any programming language. Here are 50+ python projects with their source code for different levels of programmers that can inspire you.
 ## Contribute 💡
 If you have any python project idea in your mind or you think  Feel free to contribute to this github repo.
+To contribute : [Click Here](https://github.com/thegeekyb0y/pythonprojects/issues/new/choose)
 
 ### Difficulty Level : Easy
 
@@ -81,7 +82,9 @@ To create a bug report, [Click Here](https://github.com/thegeekyb0y/pythonprojec
 
 **📝 Note**
 
+
 Most of the tutorials are taken from www.thecleverprogrammer.com . You can follow his blogs for more python projects.
+
 ---
 ### Connect with Me 🤝
 [Instagram](https://www.instagram.com/thegeekyb0y) | [Twitter](https://www.twitter.com/thegeekyb0y) | [Linkedin](https://www.linkedin.com/in/adityacodes)
