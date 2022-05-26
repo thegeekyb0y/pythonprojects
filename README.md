@@ -1,8 +1,10 @@
-# Python Projects for Everyone
+# 50+ Python Projects for Everyone.
+## Introduction 👋
+Projects are necessary while learning any programming language. Here are 50+ python projects with their source code for different levels of programmers that can inspire you.
+## To Contribute ✍️
+If you have any python project idea in your mind. Feel free to contribute to this github repo.
 
-Projects are necessary while learning any programming language. Here I am dropping 50 python projects for different levels that can inspire you.
 
-Note that : All tutorials are taken from www.thecleverprogrammer.com
 
 1. [Send Automatic Emails using Python](https://thecleverprogrammer.com/2021/06/11/send-automatic-emails-using-python/)
 
@@ -16,3 +18,6 @@ Note that : All tutorials are taken from www.thecleverprogrammer.com
 8. [Quartile Deviation using Python](https://thecleverprogrammer.com/2021/05/04/quartile-deviation-using-python/)
 9. [Count Character Occurrences](https://thecleverprogrammer.com/2021/03/12/count-character-occurrences-using-python/)
 10. [Pyramid Pattern using Python](https://thecleverprogrammer.com/2021/04/28/pyramid-pattern-using-python/)
+
+
+Note that : Most of the tutorials are taken from www.thecleverprogrammer.com . You can follow his blogs for more python projects.
