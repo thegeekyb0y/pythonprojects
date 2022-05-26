@@ -44,42 +44,36 @@ If you have any python project idea in your mind or you think  Feel free to cont
 15. [Scrape IMDb with Python](https://thecleverprogrammer.com/2021/06/02/scrape-imdb-using-python/)
 ---
 ### Difficulty Level : Advanced
-Visualize a Neural Network using Python
-Bias and Variance using Python
-Get Live Weather Updates using Python
-Count Objects in Image using Python
-Scrape Trending News using Python
-Real-time Stock Price Data Visualization using Python
-OTP Verification using Python
-Choropleth Map with Python
-Egg catcher game
-Extract Country Details
-Convert Text to Numerical data
-AUC and ROC using Python
-Interactive Language Translator
-Maximum Profit Finder
-Language Detection
-Histogram and Density Plots with Python
-Radar Plot with Python
-Create a Chatbot with Python
-Stopwords Removal
-Unicode Characters Removal
-Grammar Correction with Python
-Caterpillar Game with Python
-Maze Solver
-Encrypt and Decrypt Messages with Python
-Screen Pet Game with Python
-Robot Builder with Python
-Generate Word Clouds
-Bitcoin Mining
-Password Picker
-Typing Test Game GUI
-Contact Book with Python
-Hangman Game with Python
-URL Shortner with Python
-Digital Clock GUI
-Get Desktop Notifications with Python
+1. [Visualize a Neural Network using Python](https://thecleverprogrammer.com/2021/06/07/visualize-a-neural-network-using-python/)
+2. [Bias and Variance using Python](https://thecleverprogrammer.com/2021/05/20/bias-and-variance-using-python/)
+3. [Get Live Weather Updates using Python](https://thecleverprogrammer.com/2021/05/21/get-live-weather-updates-using-python/)
+4. [Count Objects in Image using Python](https://thecleverprogrammer.com/2021/05/11/count-objects-in-image-using-python/)
+5. [Scrape Trending News using Python](https://thecleverprogrammer.com/2021/05/10/scrape-trending-news-using-python/)
+6. [Real-time Stock Price Data Visualization using Python](https://thecleverprogrammer.com/2021/05/01/real-time-stock-price-data-visualization-using-python/)
+7. [OTP Verification using Python](https://thecleverprogrammer.com/2021/04/14/otp-verification-using-python/)
+8. [Choropleth Map with Python](https://thecleverprogrammer.com/2021/04/20/choropleth-map-using-python/)
+9. [Egg catcher game](https://thecleverprogrammer.com/2021/04/23/egg-catcher-game-using-python/)
+10. [Extract Country Details](https://thecleverprogrammer.com/2021/04/12/countryinfo-in-python-tutorial/)
+11. [Convert Text to Numerical data](https://thecleverprogrammer.com/2021/04/17/convert-text-into-numerical-data-using-python/)
+12. [AUC and ROC using Python](https://thecleverprogrammer.com/2021/04/07/auc-and-roc-curve-using-python/)
+13. [Interactive Language Translator](https://thecleverprogrammer.com/2021/04/02/language-translator-using-python/)
+14. [Maximum Profit Finder](https://thecleverprogrammer.com/2021/03/24/find-maximum-profit-using-python/)
+15. [Language Detection](https://thecleverprogrammer.com/2021/04/04/language-detection-with-python/)
+16. [Histogram and Density Plots with Python](https://thecleverprogrammer.com/2021/03/30/histogram-and-density-plots-using-python/)
+17. [Radar Plot with Python](https://thecleverprogrammer.com/2021/04/06/radar-plot-using-python/)
+18. [Create a Chatbot with Python](https://thecleverprogrammer.com/2021/03/25/chatbot-using-python/)
+19. [Stopwords Removal](https://thecleverprogrammer.com/2021/03/28/remove-stop-words-using-python/)
+20. [Unicode Characters Removal](https://thecleverprogrammer.com/2021/03/29/remove-unicode-characters-using-python/)
+21. [Grammar Correction with Python](https://thecleverprogrammer.com/2021/03/16/grammar-correction-using-python/)
+22. [Caterpillar Game with Python](https://thecleverprogrammer.com/2021/02/05/caterpillar-game-with-python/)
+23. [Maze Solver](https://thecleverprogrammer.com/2021/01/26/maze-solver-with-python/)
+24. [Encrypt and Decrypt Messages with Python](https://thecleverprogrammer.com/2021/01/25/encrypt-and-decrypt-using-python/)
+28. [Bitcoin Mining](https://thecleverprogrammer.com/2021/01/18/bitcoin-mining-with-python/)
+29. [Password Picker](https://thecleverprogrammer.com/2021/01/17/password-picker-with-python/)
+30. [Typing Test Game GUI](https://thecleverprogrammer.com/2021/01/17/typing-speed-test-gui-with-python/)
+33. [URL Shortner with Python](https://thecleverprogrammer.com/2021/01/15/url-shortener-with-python/)
 
+---
 ## Errors/Bugs
 If you see an error message or run into an issue, please create bug report.
 
@@ -87,4 +81,6 @@ If you see an error message or run into an issue, please create bug report.
 **📝 Note**
 
 Most of the tutorials are taken from www.thecleverprogrammer.com . You can follow his blogs for more python projects.
-
+---
+### Connect with Me 🤝
+[Instagram](https://www.instagram.com/thegeekyb0y) | [Twitter](https://www.twitter.com/thegeekyb0y) | [Linkedin](https://www.linkedin.com/in/adityacodes)
