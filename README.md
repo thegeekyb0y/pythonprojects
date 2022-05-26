@@ -1,7 +1,8 @@
 # Python Projects for Everyone
 
+Projects are necessary while learning any programming language. Here I am dropping 50 python projects for different levels that can inspire you.
 
-All tutorials are taken from www.thecleverprogrammer.com
+Note that : All tutorials are taken from www.thecleverprogrammer.com
 
 1. [Send Automatic Emails using Python](https://thecleverprogrammer.com/2021/06/11/send-automatic-emails-using-python/)
 
