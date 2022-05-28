@@ -80,7 +80,7 @@ If you see an error message or run into an issue, please create bug report.
 To create a bug report, [Click Here](https://github.com/thegeekyb0y/pythonprojects/issues/new/choose)
 
 
-**📝 Note**
+### **📝 Note**
 
 
 Most of the tutorials are taken from www.thecleverprogrammer.com . You can follow his blogs for more python projects.
