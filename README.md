@@ -1,6 +1,6 @@
 # 50+ Python Projects for Everyone.
 ## Introduction 👋
-Projects are necessary while learning any programming language. Here are 50+ python projects with their source code for different levels of programmers that can inspire you.
+Projects are necessary while learning any programming language. Here are 50+ python projects with their source code for different levels of programmers that can inspire you. 
 ## Contribute 💡
 If you have any python project idea in your mind or you think  Feel free to contribute to this github repo.
 To contribute : [Click Here](https://github.com/thegeekyb0y/pythonprojects/issues/new/choose)
