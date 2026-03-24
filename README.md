@@ -43,6 +43,7 @@ To contribute : [Click Here](https://github.com/thegeekyb0y/pythonprojects/issue
 13. [Treemap using Python](https://thecleverprogrammer.com/2021/05/16/treemap-using-python/)
 14. [Convert Image to an array](https://thecleverprogrammer.com/2021/06/08/convert-image-to-array-using-python/)
 15. [Scrape IMDb with Python](https://thecleverprogrammer.com/2021/06/02/scrape-imdb-using-python/)
+16. [Duplicate File Finder using Python](https://medium.com/@paltannistha/stop-wasting-storage-find-duplicate-files-using-python-8e7fed96c109?postPublishedType=initial)
 ---
 ### Difficulty Level : Advanced
 1. [Visualize a Neural Network using Python](https://thecleverprogrammer.com/2021/06/07/visualize-a-neural-network-using-python/)
