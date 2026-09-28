@@ -84,7 +84,7 @@ To create a bug report, [Click Here](https://github.com/thegeekyb0y/pythonprojec
 ### **📝 Note**
 
 
-Most of the tutorials are taken from www.thecleverprogrammer.com . You can follow his blogs for more python projects.
+Most of the tutorials are taken from [www.thecleverprogrammer.com](https://amanxai.com/) . You can follow his blogs for more python projects.
 
 ---
 ### Connect with Me 🤝
